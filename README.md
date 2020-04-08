@@ -15,7 +15,7 @@ All printed with 0.2mm layer high, 25% infill rate, with support.
 
 ### Design Files 
 
-Check out the [STP](STP folder) for STEP files. 
+Check out the [STP folder](https://github.com/cutiepi-io/cutiepi-enclosure/tree/master/STP) for STEP files. 
 
 ### Copyright & License 
 
